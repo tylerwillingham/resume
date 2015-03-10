@@ -28,7 +28,8 @@
 ## Front-end frameworks
 
 * Bootstrap
-* Foundation * jQuery
+* Foundation 
+* jQuery
 * EmberJS
 
 ## Front-end tools
