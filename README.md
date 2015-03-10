@@ -1,4 +1,6 @@
 # Tyler Willingham - Resume
+[website](http://tylerwillingham.com) | [github](http://github.com/tylerwillingham) | [linkedin](http://linkedin.com/in/tylerwillingham) | [twitter](http://twitter.com/tylerwillingham)
+
 I'm a web developer with experience across the full stack, from front-end development to light dev-ops work. My development education comes 100% from experience. I began learning in middle school and landed my first freelance jobs before I could drive a car.
 
 My favorite part of software development is creating meaninginful solutions to difficult problems. Programming is fun and I'm constantly looking into new technologies but I recognize that software developers are problem-solvers and that's the primary reason I decided to pursue web development as a career.
