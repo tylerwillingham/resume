@@ -29,7 +29,7 @@ My favorite part of software development is creating meaninginful solutions to d
 Maintain and improve cloud-based management suite for self-storage companies in an agile environment.
 
 **Technologies:**
-Ruby, Rails, PostgreSQL, Sidekiq, AWS, Memcached, Git
+Ruby, Rails, PostgreSQL, Sidekiq, AWS, New Relic, CodeClimate, CircleCI, Memcached, Rubocop, Git
 
 ### Senior Software Engineer
 **The Nerdery** | June 2012 - April 2015  
