@@ -25,7 +25,7 @@ My favorite part of software development is creating meaninginful solutions to d
 ## Experience
 
 ### Software Engineer
-**Red Nova Labs** | April 2015 - Present
+**Red Nova Labs** | April 2015 - Present  
 Maintain and improve cloud-based management suite for self-storage companies in an agile environment.
 
 ### Senior Software Engineer
