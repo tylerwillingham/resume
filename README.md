@@ -24,8 +24,12 @@ My favorite part of software development is creating meaninginful solutions to d
 
 ## Experience
 
+### Software Engineer
+**Red Nova Labs** | April 2015 - Present
+Maintain and improve cloud-based management suite for self-storage companies in an agile environment.
+
 ### Senior Software Engineer
-**The Nerdery** | June 2012 - Present  
+**The Nerdery** | June 2012 - April 2015  
 Estimate, architect, lead, and engineer websites and web applications across a diverse spread of markets while utilizing agile practices to respect project objectives, budgets and deadlines.
 
 **Technologies:**  
