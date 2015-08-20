@@ -1,5 +1,8 @@
 # Programming Languages & Frameworks
 
+* Ruby
+  * Rails (3 & 4)
+  * Sinatra
 * PHP
   * Laravel
   * Symfony 2
@@ -7,16 +10,13 @@
   * CodeIgniter
   * CakePHP
   * FuelPHP
-* Ruby
-  * Rails (3 & 4)
-  * Sinatra
 * Python
   * Django (1.6+)
 
 # Databases
 
-* MySQL
 * PostgreSQL
+* MySQL
 * SQLite
 
 # Front-end Languages
@@ -40,7 +40,7 @@
 * Gulp
 * Bower
 * Yeoman
-* Node (mostly NPM)
+* NPM
 
 # Version control
 
@@ -60,7 +60,7 @@
 
 # Cloud platforms
 
-* Digital Ocean
+* AWS
 * Rackspace
-* Amazon S3
+* Digital Ocean
 
