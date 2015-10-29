@@ -26,10 +26,10 @@ My favorite part of software development is creating meaninginful solutions to d
 
 ### Software Engineer
 **Red Nova Labs** | April 2015 - Present  
-Maintain and improve cloud-based management suite for self-storage companies in an agile environment.
+Maintain and improve cloud-based management suite for self-storage companies in an agile environment with a focus on code quality and maintainability.
 
 **Technologies:**
-Ruby, Rails, PostgreSQL, Sidekiq, AWS, New Relic, CodeClimate, CircleCI, Memcached, Rubocop, Git
+Ruby, Rails, Node.js, React, PostgreSQL, Sidekiq, Elasticsearch, AWS, New Relic, CodeClimate, CircleCI, Memcached, Rubocop, Git
 
 ### Senior Software Engineer
 **The Nerdery** | June 2012 - April 2015  
