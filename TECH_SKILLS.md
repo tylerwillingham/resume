@@ -1,8 +1,10 @@
-# Programming Languages & Frameworks
+# Programming languages & frameworks
 
 * Ruby
-  * Rails (3 & 4)
+  * Rails (3, 4, 5)
   * Sinatra
+* Elixir
+  * Phoenix
 * PHP
   * Laravel
   * Symfony 2
@@ -18,8 +20,9 @@
 * PostgreSQL
 * MySQL
 * SQLite
+* Redis
 
-# Front-end Languages
+# Front-end languages
 
 * HTML
 * CSS
@@ -27,10 +30,10 @@
 
 ## Front-end frameworks
 
+* React
+* Ember
 * Bootstrap
 * Foundation 
-* jQuery
-* EmberJS
 
 ## Front-end tools
 
@@ -41,25 +44,27 @@
 * Bower
 * Yeoman
 * NPM
+* Webpack
 
 # Version control
 
-* Git (command-line user)
-* Subversion (command-line user)
+* Git (CLI user)
+* Subversion (CLI user)
 
-# Provisioning Tools
+# Provisioning tools
 
 * Puppet
 * Docker
 * Chef
 
-# Automation Tools
+# Automation tools
 
 * Grunt / Gulp
 * Phing
 
 # Cloud platforms
 
+* Heroku
 * AWS
 * Rackspace
 * Digital Ocean
