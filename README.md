@@ -1,7 +1,7 @@
 # Tyler Willingham - Resume
 [website](http://tylerwillingham.com) | [github](http://github.com/tylerwillingham) | [linkedin](http://linkedin.com/in/tylerwillingham) | [twitter](http://twitter.com/tylerwillingham)
 
-I'm a software engineer because I love building things. I have experience across the entire stack. I'm 100% self-taught. I started my career working independently. I've been working full-time as a Software Developer/Engineer for 5 years and counting. I am experienced in working with and leading small teams. I have remote experience.
+I'm a software engineer because I love building things. I have experience across the entire stack. I'm 100% self-taught. I started my career working independently. I've been working full-time as a Software Developer/Engineer for 6 years and counting. I am experienced in working with and leading small teams. I have remote experience.
 
 I care about developing responsible and maintainable software. My aim is to write code that looks boring and therefor approachable to beginners. "Code golf" isn't my sport. I rely on libraries that the community trusts to accelerate my productivity and keep my teams from maintaining software that's secondary or tertiary to our primary objective.
 
