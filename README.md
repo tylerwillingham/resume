@@ -23,9 +23,9 @@ I care about developing responsible and maintainable software. My aim is to writ
 
 ## Experience
 
-### Senior Software Engineer
+### Senior Software Engineer, Technical Lead
 **BiggerPockets** | July 2016 - Present  
-Implement and maintain features in a Rails application with over 650k users. Introduced tooling to improve application performance and security. Assisted
+Support and lead agile engineering team. Implement and maintain features in a Rails application with over half of a million users. Introduced tooling to improve application performance and security. Assisted
 in the implementation and revision of agile processes to improve team effeciency. Mentored growing engineers on the importance of writing clean, maintainable code.
 Oversaw integration of React for more maintainable interactive components. Lead effort for major Rails version upgrade.
 
