@@ -37,24 +37,25 @@
 
 ## Front-end tools
 
-* Sass
-* LESS
+* Bower
 * Grunt
 * Gulp
-* Bower
-* Yeoman
+* LESS
 * NPM
+* Sass
 * Webpack
+* Yarn
+* Yeoman
 
 # Version control
 
-* Git (CLI user)
-* Subversion (CLI user)
+* Git
+* Subversion
 
 # Provisioning tools
 
-* Puppet
 * Docker
+* Puppet
 * Chef
 
 # Automation tools
@@ -64,8 +65,9 @@
 
 # Cloud platforms
 
-* Heroku
 * AWS
+* Apitble
+* Heroku
 * Rackspace
 * Digital Ocean
 

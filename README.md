@@ -1,18 +1,29 @@
 # Tyler Willingham - Resume
-[website](http://tylerwillingham.com) | [github](http://github.com/tylerwillingham) | [linkedin](http://linkedin.com/in/tylerwillingham) | [twitter](http://twitter.com/tylerwillingham)
+[website](http://tylerwillingham.com) | [github](http://github.com/tylerwillingham) | [linkedin](http://linkedin.com/in/tylerwillingham)
 
-I'm a software engineer because I love building things. I have experience across the entire stack. I'm 100% self-taught. I started my career working independently. I've been working full-time as a Software Developer/Engineer for 6 years and counting. I am experienced in working with and leading small teams. I have remote experience.
+My love for building things is why I became a software engineer. I am an
+experienced, full-stack engineer. I am self-taught. I started to learn HTML and
+CSS on my own back in middle school.
 
-I care about developing responsible and maintainable software. My aim is to write code that looks boring and therefor approachable to beginners. "Code golf" isn't my sport. I rely on libraries that the community trusts to accelerate my productivity and keep my teams from maintaining software that's secondary or tertiary to our primary objective.
+I began my career working independently as a freelancer from 2009-2011. I have
+been employed full-time ever since. I have worked as an engineering team lead in
+several companies (remote and in-person) and I have a special passion for
+helping other engineers level-up.
+
+I care about developing responsible and maintainable software. My aim is to
+write code that looks boring and therefor approachable to beginners. "Code golf"
+isn't my sport. I rely on community-trusted libraries to increase productivity
+and keep my teams from maintaining software that's secondary or tertiary to our
+primary goal.
 
 ## Skills
 
 * Pragmatism
+* Application Architecture
+* Leading engineering teams
 * Strong spoken & written communication
 * Estimation
-* Application Architecture
 * Scope design
-* Leading project teams
 * Version Control
 * Testing (TDD proponent)
 * Task Automation
@@ -23,8 +34,21 @@ I care about developing responsible and maintainable software. My aim is to writ
 
 ## Experience
 
+### Software Engineer
+**Healthify, Inc.** | October 2017 - Present
+Architect and implement scalable, technical solutions to address social
+determinants of health in pursuit of no one's health being hindered by their
+needs.
+
+Contributes as a full-stack engineer and occassional project lead in the core
+Rails application, including building targetted, cutting-edge, React-based
+features optimized for a richer user experience.
+
+**Technologies:**
+Ruby, Rails, React, PostgreSQL, Sidekiq, Aptible, New Relic, Travis CI, Git
+
 ### Senior Software Engineer, Technical Lead
-**BiggerPockets** | July 2016 - Present  
+**BiggerPockets** | July 2016 - October 2017
 Support and lead agile engineering team. Implement and maintain features in a Rails application with over half of a million users. Introduced tooling to improve application performance and security. Assisted
 in the implementation and revision of agile processes to improve team effeciency. Mentored growing engineers on the importance of writing clean, maintainable code.
 Oversaw integration of React for more maintainable interactive components. Lead effort for major Rails version upgrade.
