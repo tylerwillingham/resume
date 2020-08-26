@@ -35,7 +35,7 @@ primary goal.
 ## Experience
 
 ### Software Engineer
-**Healthify, Inc.** | October 2017 - Present
+**Healthify, Inc.** | October 2017 - Present  
 Architect and implement scalable, technical solutions to address social
 determinants of health in pursuit of no one's health being hindered by their
 needs.
@@ -48,7 +48,7 @@ features optimized for a richer user experience.
 Ruby, Rails, React, PostgreSQL, Sidekiq, Aptible, New Relic, Travis CI, Git
 
 ### Senior Software Engineer, Technical Lead
-**BiggerPockets** | July 2016 - October 2017
+**BiggerPockets** | July 2016 - October 2017  
 Support and lead agile engineering team. Implement and maintain features in a Rails application with over half of a million users. Introduced tooling to improve application performance and security. Assisted
 in the implementation and revision of agile processes to improve team effeciency. Mentored growing engineers on the importance of writing clean, maintainable code.
 Oversaw integration of React for more maintainable interactive components. Lead effort for major Rails version upgrade.
