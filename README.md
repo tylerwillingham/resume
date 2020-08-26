@@ -36,16 +36,15 @@ primary goal.
 
 ### Software Engineer
 **Healthify, Inc.** | October 2017 - Present  
-Architect and implement scalable, technical solutions to address social
-determinants of health in pursuit of no one's health being hindered by their
-needs.
+Collaboratively design and implement time-sensitive (but scalable), mission-driven
+solutions to aid in addressing individuals' social determinants of health with the
+ultimate goal of building a world where no one's health is hindered by their need.
 
-Contributes as a full-stack engineer and occassional project lead in the core
-Rails application, including building targetted, cutting-edge, React-based
-features optimized for a richer user experience.
+Contributes as a full-stack engineer in a Rails monolith with a hybrid frontend composed of legacy
+Rails-rendered pages while migrating towards a modern, interactive, React-powered frontend.
 
 **Technologies:**
-Ruby, Rails, React, PostgreSQL, Sidekiq, Aptible, New Relic, Travis CI, Git
+Ruby, Rails, React, Elasticsearch, PostgreSQL, Sidekiq, Aptible, New Relic, Travis CI, Git
 
 ### Senior Software Engineer, Technical Lead
 **BiggerPockets** | July 2016 - October 2017  
