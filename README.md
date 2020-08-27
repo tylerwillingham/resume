@@ -1,14 +1,15 @@
 # Tyler Willingham - Resume
 [website](http://tylerwillingham.com) | [github](http://github.com/tylerwillingham) | [linkedin](http://linkedin.com/in/tylerwillingham)
 
-My love for building things is why I became a software engineer. I am an
-experienced, full-stack engineer. I am self-taught. I started to learn HTML and
-CSS on my own back in middle school.
+My love for building things is why I became a software engineer. I am a self-taught, full-stack
+engineer. I've spent all of my career working for start-ups, first in an agency-like capacity, then
+in-house.
 
-I began my career working independently as a freelancer from 2009-2011. I have
-been employed full-time ever since. I have worked as an engineering team lead in
-several companies (remote and in-person) and I have a special passion for
-helping other engineers level-up.
+I began my career working independently as a freelancer in 2009. In 2011 I took an agency job and have
+been employed full-time ever since. I have individual contributor experience as well as considerable
+team-lead experience.  As someone who is self-taught, I benefited from working closely with other
+engineers to learn and grow and as I continue to do that, I have also developed a special passion
+for helping others grow.
 
 I care about developing responsible and maintainable software. My aim is to
 write code that looks boring and therefor approachable to beginners. "Code golf"
@@ -18,10 +19,10 @@ primary goal.
 
 ## Skills
 
-* Pragmatism
 * Application Architecture
 * Leading engineering teams
 * Strong spoken & written communication
+* Pragmatism
 * Estimation
 * Scope design
 * Version Control
@@ -29,7 +30,7 @@ primary goal.
 * Task Automation
 * Cross-discipline awareness
 
-[Check out my specific technical skills](TECH_SKILLS.md)
+[Review my specific technical skills](TECH_SKILLS.md)
 
 
 ## Experience
