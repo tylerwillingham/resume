@@ -12,22 +12,19 @@ engineers to learn and grow and as I continue to do that, I have also developed 
 for helping others grow.
 
 I care about developing responsible and maintainable software. My aim is to
-write code that looks boring and therefor approachable to beginners. "Code golf"
+write code that is so readable that it looks boring. "Code golf"
 isn't my sport. I rely on community-trusted libraries to increase productivity
-and keep my teams from maintaining software that's secondary or tertiary to our
-primary goal.
+and keep my teams from maintaining software that's not core to our business needs.
 
 ## Skills
 
-* Application Architecture
-* Leading engineering teams
-* Strong spoken & written communication
+* Leading technical projects
+* Engineering Management
+* Application architecture
 * Pragmatism
-* Estimation
-* Scope design
 * Version Control
 * Testing (TDD proponent)
-* Task Automation
+* Automation
 * Cross-discipline awareness
 
 [Review my specific technical skills](TECH_SKILLS.md)
@@ -35,8 +32,18 @@ primary goal.
 
 ## Experience
 
-### Software Engineer
-**Healthify, Inc.** | October 2017 - Present  
+### Engineering Manager, Senior Software Engineer
+**Healthify, Inc.** | February 2021 - Present
+Develop individually-catered monthly, quarterly goals for reports. Perform weekly 1-on-1 check-ins.
+Help align and organize the time around strategic goals while also providing autonomy and space for
+team members to drive product changes.
+
+In addition to my management responsibilities I remain a senior contributor on the team, helping lead
+technical direction of new features and quick response to bugs while also prioritizing technical
+debt.
+
+### Senior Software Engineer
+**Healthify, Inc.** | October 2017 - February 2021
 Collaboratively design and implement time-sensitive (but scalable), mission-driven
 solutions to aid in addressing individuals' social determinants of health with the
 ultimate goal of building a world where no one's health is hindered by their need.
