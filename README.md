@@ -1,5 +1,5 @@
 # Tyler Willingham - Resume
-[website](http://tylerwillingham.com) | [github](http://github.com/tylerwillingham) | [linkedin](http://linkedin.com/in/tylerwillingham)
+[website](https://twilling.io) | [github](http://github.com/tylerwillingham) | [linkedin](http://linkedin.com/in/tylerwillingham)
 
 My love for building things is why I became a software engineer. I am a self-taught, full-stack
 engineer. I've spent all of my career working for start-ups, first in an agency-like capacity, then
