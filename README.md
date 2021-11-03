@@ -32,8 +32,8 @@ and keep my teams from maintaining software that's not core to our business need
 
 ## Experience
 
-### Engineering Manager, Senior Software Engineer
-**Healthify, Inc.** | February 2021 - Present
+### Staff Software Engineer, Engineering Manager
+**Healthify, Inc. (powered by WellSky)** | February 2021 - Present  
 Develop individually-catered monthly, quarterly goals for reports. Perform weekly 1-on-1 check-ins.
 Help align and organize the time around strategic goals while also providing autonomy and space for
 team members to drive product changes.
@@ -43,7 +43,7 @@ technical direction of new features and quick response to bugs while also priori
 debt.
 
 ### Senior Software Engineer
-**Healthify, Inc.** | October 2017 - February 2021
+**Healthify, Inc.** | October 2017 - February 2021  
 Collaboratively design and implement time-sensitive (but scalable), mission-driven
 solutions to aid in addressing individuals' social determinants of health with the
 ultimate goal of building a world where no one's health is hindered by their need.
