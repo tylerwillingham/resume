@@ -1,9 +1,9 @@
 # Tyler Willingham - Resume
 [website](https://twilling.io) | [github](http://github.com/tylerwillingham) | [linkedin](http://linkedin.com/in/tylerwillingham)
 
-My love for building things is why I became a software engineer. I am a self-taught, full-stack
-engineer. I've spent all of my career working for start-ups, first in an agency-like capacity, then
-in-house.
+I am a pragmatic engineer with a passion for building features across the full-stack. I have found a
+particular interest in working at startups and growing their offerings with maintainability and
+scale in mind while balancing a user-oriented mindset.
 
 I began my career working independently as a freelancer in 2009. In 2011 I took an agency job and have
 been employed full-time ever since. I have individual contributor experience as well as considerable
@@ -19,9 +19,9 @@ and keep my teams from maintaining software that's not core to our business need
 ## Skills
 
 * Leading technical projects
-* Engineering Management
-* Application architecture
 * Pragmatism
+* Application architecture
+* Engineering Management
 * Version Control
 * Testing (TDD proponent)
 * Automation
