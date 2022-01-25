@@ -32,15 +32,15 @@ and keep my teams from maintaining software that's not core to our business need
 
 ## Experience
 
-### Staff Software Engineer, Engineering Manager
+### Senior Staff Engineer, Engineering Manager, Tech Lead
 **Healthify, Inc. (powered by WellSky)** | February 2021 - Present  
-Develop individually-catered monthly, quarterly goals for reports. Perform weekly 1-on-1 check-ins.
-Help align and organize the time around strategic goals while also providing autonomy and space for
-team members to drive product changes.
+As a senior staff engineer and tech lead for the Healthify product at WellSky it is my
+responsibility to look after the technical direction of the user-facing application across the
+full-stack but primarily the Ruby and Rails ecosystem and the React front-end while also helping to
+mentor and grow engineers on the team through providing new opportunities and as a consultant on
+difficult ones.
 
-In addition to my management responsibilities I remain a senior contributor on the team, helping lead
-technical direction of new features and quick response to bugs while also prioritizing technical
-debt.
+Additionally, as en engineering manager over a small number of individual contributors, I work to develop individually-catered monthly, quarterly goals for reports. I conduct weekly 1-on-1 check-ins, help align and organize the time around strategic goals while also providing autonomy and space for team members to drive product changes.
 
 ### Senior Software Engineer
 **Healthify, Inc.** | October 2017 - February 2021  
