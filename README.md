@@ -31,11 +31,32 @@ and keep my teams from maintaining software that's not core to our business need
 
 ## Experience
 
+### Shopify
+
+[Website](https://shopify.com)
+
+**Technologies:**  
+Ruby, Rails, React, TypeScript, GraphQL, Sidekiq, Kafka, DataDog, BuildKite
+
+#### Senior Software Engineer - Fulfillment - Pricing & Billing
+
+_September 2022 - Present_
+
+Contributes to pricing and billing codebases across a variety of services in Ruby and TypeScript.
+
+#### Senior Software Engineer - Fulfillment - Onboarding
+
+_March 2022 - September 2022_
+
+Contributed to building the onboarding experience for existing Merchant's opting in to use Shopify for their order fulfillment for the first time.
+
+This meant building new features and improving the performance in existing systems with a careful consideration for data instrumentation. We built new features and experiments to be easily assessed with an objective, data-oriented lens in order to make quick, informed product decisions.
+
 ### Healthify
 
 [Website](https://healthify.us)
 
-**Technologies:**
+**Technologies:**  
 Ruby, Rails, React, ElasticSearch, PostgreSQL, Sidekiq, Aptible, New Relic, Travis CI, Git
 
 #### Senior Staff Engineer, Engineering Manager
