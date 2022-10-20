@@ -29,11 +29,19 @@ and keep my teams from maintaining software that's not core to our business need
 
 [Review my specific technical skills](TECH_SKILLS.md)
 
-
 ## Experience
 
-### Senior Staff Engineer, Engineering Manager, Tech Lead
-**Healthify, Inc. (powered by WellSky)** | February 2021 - Present  
+### Healthify
+
+[Website](https://healthify.us)
+
+**Technologies:**
+Ruby, Rails, React, ElasticSearch, PostgreSQL, Sidekiq, Aptible, New Relic, Travis CI, Git
+
+#### Senior Staff Engineer, Engineering Manager
+
+_February 2021 - March 2022_
+
 As a senior staff engineer and tech lead for the Healthify product at WellSky it is my
 responsibility to look after the technical direction of the user-facing application across the
 full-stack but primarily the Ruby and Rails ecosystem and the React front-end while also helping to
@@ -42,47 +50,70 @@ difficult ones.
 
 Additionally, as en engineering manager over a small number of individual contributors, I work to develop individually-catered monthly, quarterly goals for reports. I conduct weekly 1-on-1 check-ins, help align and organize the time around strategic goals while also providing autonomy and space for team members to drive product changes.
 
-### Senior Software Engineer
-**Healthify, Inc.** | October 2017 - February 2021  
+#### Senior Software Engineer
+
+_October 2017 - February 2021_
+
 Collaboratively design and implement time-sensitive (but scalable), mission-driven
 solutions to aid in addressing individuals' social determinants of health with the
 ultimate goal of building a world where no one's health is hindered by their need.
 
-Contributes as a full-stack engineer in a Rails monolith with a hybrid frontend composed of legacy
-Rails-rendered pages while migrating towards a modern, interactive, React-powered frontend.
+Contributes as a full-stack engineer in a Rails monolith with a hybrid front-end composed of legacy
+Rails-rendered pages while migrating towards a modern, interactive, React-powered front-end.
 
-**Technologies:**
-Ruby, Rails, React, Elasticsearch, PostgreSQL, Sidekiq, Aptible, New Relic, Travis CI, Git
+### BiggerPockets
 
-### Senior Software Engineer, Technical Lead
-**BiggerPockets** | July 2016 - October 2017  
-Support and lead agile engineering team. Implement and maintain features in a Rails application with over half of a million users. Introduced tooling to improve application performance and security. Assisted
-in the implementation and revision of agile processes to improve team effeciency. Mentored growing engineers on the importance of writing clean, maintainable code.
-Oversaw integration of React for more maintainable interactive components. Lead effort for major Rails version upgrade.
+[Website](https://biggerpockets.com)
 
 **Technologies:**  
 Ruby, Rails, Node.js, React, PostgreSQL, Sidekiq, Heroku, Skylight, Gemnasium, New Relic, CircleCI, RayGun, Rubocop, Git
 
-### Software Engineer
-**Red Nova Labs** | April 2015 - July 2016  
-Maintain and improve cloud-based management suite for self-storage companies in an agile environment with a focus on code quality and maintainability.
+#### Senior Software Engineer, Technical Lead
+
+_July 2016 - October 2017_
+
+Support and lead agile engineering team. Implement and maintain features in a Rails application with over half of a million users. Introduced tooling to improve application performance and security. Assisted
+in the implementation and revision of agile processes to improve team efficiency. Mentored growing engineers on the importance of writing clean, maintainable code.
+Oversaw integration of React for more maintainable interactive components. Lead effort for major Rails version upgrade.
+
+### Red Nova Labs
+
+[Company Website](https://rednovalabs.com) | [Main product website](https://stordedge.com)
 
 **Technologies:**  
 Ruby, Rails, Node.js, React, PostgreSQL, Sidekiq, Elasticsearch, AWS, New Relic, CodeClimate, CircleCI, Memcached, Rubocop, Git
 
-### Senior Software Engineer
-**The Nerdery** | June 2012 - April 2015  
-Estimate, architect, lead, and engineer websites and web applications across a diverse spread of markets while utilizing agile practices to respect project objectives, budgets and deadlines.
+#### Software Engineer
+
+_April 2015 - July 2016_
+
+Maintain and improve cloud-based management suite for self-storage companies in an agile environment with a focus on code quality and maintainability.
+
+### The Nerdery
+
+[Website](https://nerdery.com)
 
 **Technologies:**  
 Linux, Nginx, Apache, MySQL, PostgreSQL, PHP, Symfony 2, Yii, ExpressionEngine, Craft CMS, Ruby, Ruby on Rails, HTML5, CSS3, Javascript, RequireJS, Grunt, Gulp, Vagrant, Puppet, Chef, Git, Subversion
 
-### Full Stack Developer
-**AdVentures** | March 2011 - June 2012  
-Developed and maintained websites for both internal and external use as well as a service-oriented work for third-parties.
+#### Senior Software Engineer
+
+_June 2012 - April 2015_
+
+Estimate, architect, lead, and engineer websites and web applications across a diverse spread of markets while utilizing agile practices to respect project objectives, budgets and deadlines.
+
+### AdVentures
+
+[Website](https://adventur.es)
 
 **Technologies:**  
 Linux, Nginx, Apache, MySQL, PHP, ExpressionEngine, Wordpress HTML, CSS, Javascript, Git
+
+#### Full Stack Developer
+
+_March 2011 - June 2012_
+
+Developed and maintained websites for both internal and external use as well as a service-oriented work for third-parties.
 
 
 ## Education
