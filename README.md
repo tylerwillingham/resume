@@ -26,9 +26,44 @@ been a full-time software engineer ever since. I have people management experien
 **Technologies:**  
 Ruby, Rails, React, TypeScript, GraphQL, Sidekiq, Kafka, DataDog, BuildKite, AWS
 
-#### Senior Software Engineer - Shopify
+#### Acting Staff Engineer - Shopify Logistics
 
-_March 2022 - Current_
+_January 2023 - May 2023_
+
+As a technical leader for the Claims team I worked with engineers to design and implement maintainable and iterative improvements to the existing serverless Claims service after a period significant period without ownership. In a few short months we:
+
+- Refactored legacy, highly procedural business logic into smaller, single-responsibility classes with more thorough test coverage
+- Refined instrumentation to provide key product health insight for technical and non-technical stakeholders
+- Shipped incremental improvements to our core Claims data model, including zero-downtime strangler-fig migration of data
+- Took over maintenance and development of distributed API client
+- Improved performance to the most business critical endpoints by > 5x
+  + Required introducing new AWS infrastructure
+- Iteratively migrated from deprecated ORM to modern alternative
+- Identified and implemented database-level performance improvements
+  + Leveraged new instrumentation to target long-running queries deserving of new indexes
+  + Targeted index additions to suppor data-integrity concerns
+  + Removed foreign key constraints to support online schema migration tooling
+- Began work to enable self-serve Claims for additional merchants
+
+In addition to these domain-specific wins I also contributed to more broad impact initiatives such as:
+
+- Prototyped high-throughput Kafka-based eventing system leveraging Shopify's production-grade Kafka clusters
+  + GraphQL API
+- Contributed to an organization-wide effort to test and replace a deprecated NodeJS ORM with a modern alternative
+  + Spiked on two frameworks (Prisma, TypeORM)
+  + Presented to technical leadership committee
+  + Developed key tooling and playbook for other teams to follow for seamless transitions
+- Led initiative to replace default serverless build tooling with alternative
+  + Reduced deploy sizes by ~6x
+  + Reduced time-to-deploy by ~50%
+  + Reduced lambda cold-boot by ~60%
+- Collaborated with product engineering to assist with organization-wide efforts to define repeatable, blue-green database migration process for reducing downtime caused by database schema changes
+
+Unfortunately my time with Shopify and Shopify Logistics was [cut short due to broad, performance-agnostic cuts](https://news.shopify.com/important-team-and-business-changes).
+
+#### Senior Software Engineer - Shopify Logistics
+
+_March 2022 - January 2023_
 
 Full-stack technical leader within Shopify Logistics. Worked in both the Onboarding and Pricing/Billing/Claims spheres. In the former, contributing to a Rails monolith at-scale and in the latter, highly distributed Node/TypeScript microservices on serverless architectures.
 
