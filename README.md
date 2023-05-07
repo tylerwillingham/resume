@@ -1,20 +1,10 @@
 # Tyler Willingham - Resume
 [website](https://twilling.io) | [github](http://github.com/tylerwillingham) | [linkedin](http://linkedin.com/in/tylerwillingham)
 
-I am a pragmatic engineer with a passion for building features across the full-stack. I have found a
-particular interest in working at startups and growing their offerings with maintainability and
-scale in mind while balancing a user-oriented mindset.
+I'm a pragmatic, technical leader with a passion for building products that delight users. My career has been a mix of time spent at start-ups helping iterate quickly, but sustainably in order to regularly ship features to users, test them and continue iterating. I have also learned to tune my craft at scale, constantly thinking about instrumentation, performance, and shipping iterations with zero downtime.
 
-I began my career working independently as a freelancer in 2009. In 2011 I took an agency job and have
-been employed full-time ever since. I have individual contributor experience as well as considerable
-team-lead experience.  As someone who is self-taught, I benefited from working closely with other
-engineers to learn and grow and as I continue to do that, I have also developed a special passion
-for helping others grow.
-
-I care about developing responsible and maintainable software. My aim is to
-write code that is so readable that it looks boring. "Code golf"
-isn't my sport. I rely on community-trusted libraries to increase productivity
-and keep my teams from maintaining software that's not core to our business needs.
+You won't find a college degree in my background. I began my career working independently as a freelancer in 2009 before finishing high school. In 2011 I took an agency job and have
+been a full-time software engineer ever since. I have people management experience but I believe my impact is greatest when I can apply my technical skillset through a wide lens, collaborating across technical, product, and design teams to build predictable, maintainable systems and highly aligned teams. My self-taught background naturally motivates me to mentor other engineers through thoughtful code review and frequent pair programming.
 
 ## Skills
 
