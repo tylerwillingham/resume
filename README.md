@@ -18,14 +18,12 @@ and keep my teams from maintaining software that's not core to our business need
 
 ## Skills
 
-* Leading technical projects
 * Pragmatism
-* Application architecture
+* Leading technical teams through challenging projects
+* Product-oriented mindset
+* Authoring technical designs
 * Engineering Management
-* Version Control
 * Testing (TDD proponent)
-* Automation
-* Cross-discipline awareness
 
 [Review my specific technical skills](TECH_SKILLS.md)
 
