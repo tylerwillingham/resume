@@ -19,6 +19,17 @@ been a full-time software engineer ever since. I have people management experien
 
 ## Experience
 
+### Parachute Health
+
+[Website](https://parachutehealth.com)
+
+**Technologies:**  
+Ruby, Rails, React, TypeScript, REST, Sidekiq, AWS, Buildkite
+
+#### Staff Engineer
+
+_May 2023 - Present_
+
 ### Shopify
 
 [Website](https://shopify.com)
