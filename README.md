@@ -24,11 +24,14 @@ been a full-time software engineer ever since. I have people management experien
 [Website](https://parachutehealth.com)
 
 **Technologies:**  
-Ruby, Rails, React, TypeScript, REST, Sidekiq, AWS, Buildkite
+Ruby, Rails, React, TypeScript, Datadog, REST, Sidekiq, AWS, Buildkite
 
-#### Staff Engineer
+#### Staff Engineer, Platform
 
 _May 2023 - Present_
+
+- Refined existing modularity approach with team + stakeholders to increase developer experience + productivity working in large Rails monolith
+- Advocated for, led, and completed observability tooling migration from New Relic to Datadog to improve application observability monitoring
 
 ### Shopify
 
