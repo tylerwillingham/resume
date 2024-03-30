@@ -6,10 +6,9 @@ I'm a pragmatic, technical leader with a passion for building products that deli
 ## Skills
 
 * Pragmatism
-* Leading technical teams through challenging projects
 * Product-oriented mindset
-* Authoring technical designs
-* Engineering Management
+* Leading technical teams through challenging projects
+* Technical design and documentation
 * Testing (TDD proponent)
 
 [Review my specific technical skills](TECH_SKILLS.md)
