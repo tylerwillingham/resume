@@ -3,9 +3,6 @@
 
 I'm a pragmatic, technical leader with a passion for building products that delight users. My career has been a mix of time spent at start-ups helping iterate quickly, but sustainably in order to regularly ship features to users, test them and continue iterating. I have also learned to tune my craft at scale, constantly thinking about instrumentation, performance, and shipping iterations with zero downtime.
 
-You won't find a college degree in my background. I began my career working independently as a freelancer in 2009 before finishing high school. In 2011 I took an agency job and have
-been a full-time software engineer ever since. I have people management experience but I believe my impact is greatest when I can apply my technical skillset through a wide lens, collaborating across technical, product, and design teams to build predictable, maintainable systems and highly aligned teams. My self-taught background naturally motivates me to mentor other engineers through thoughtful code review and frequent pair programming.
-
 ## Skills
 
 * Pragmatism
