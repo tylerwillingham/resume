@@ -26,8 +26,10 @@ Ruby, Rails, React, TypeScript, Datadog, REST, Sidekiq, AWS, Buildkite
 
 _May 2023 - Present_
 
-- Refined existing modularity approach with team + stakeholders to increase developer experience + productivity working in large Rails monolith
-- Advocated for, led, and completed observability tooling migration from New Relic to Datadog to improve application observability monitoring
+- Identified gaps in existing observability process, advocated for and led migration of application performance and infrastructure observability platform (Datadog)
+- Routinely identified opportunities for simplifying our Rails monolith by religiously advocating for Rails conventions
+- Refined existing modularity approach with team + stakeholders to increase developer experience + productivity working in large Rails monolith (Packwerk)
+- Contributed to broad-scale rearchitecting of core catalog interfaces and implementing a declarative API with less burdon from the underlying, complex, data model
 
 ### Shopify
 
