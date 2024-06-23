@@ -22,9 +22,13 @@ I'm a pragmatic, technical leader with a passion for building products that deli
 **Technologies:**  
 Ruby, Rails, React, TypeScript, Datadog, REST, Sidekiq, AWS, Buildkite
 
+#### Senior Staff Engineer
+
+_April 2024 - Present_
+
 #### Staff Engineer, Platform
 
-_May 2023 - Present_
+_May 2023 - April 2024_
 
 - Identified gaps in existing observability process, advocated for and led migration of application performance and infrastructure observability platform (Datadog)
 - Routinely identified opportunities for simplifying our Rails monolith by religiously advocating for Rails conventions
