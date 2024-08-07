@@ -30,7 +30,7 @@ _April 2024 - Present_
 
 _May 2023 - April 2024_
 
-- Identified gaps in existing observability process, advocated for and led migration of application performance and infrastructure observability platform (Datadog)
+- Identified gaps in existing observability process, advocated for and led migration of APM tooling to Datadog from New Relic
 - Routinely identified opportunities for simplifying our Rails monolith by religiously advocating for Rails conventions
 - Refined existing modularity approach with team + stakeholders to increase developer experience + productivity working in large Rails monolith (Packwerk)
 - Contributed to broad-scale rearchitecting of core catalog interfaces and implementing a declarative API with less burdon from the underlying, complex, data model
