@@ -26,6 +26,9 @@ Ruby, Rails, React, TypeScript, Datadog, REST, Sidekiq, AWS, Buildkite
 
 _April 2024 - Present_
 
+- Championed full-stack effort to bring standards and conventions to our internal HTTP API
+- Led effort to migrate and consolidate session-monitoring tooling from Glassbox to Datadog
+
 #### Staff Engineer, Platform
 
 _May 2023 - April 2024_
