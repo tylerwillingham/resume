@@ -20,7 +20,7 @@ I'm a pragmatic, technical leader with a passion for building products that deli
 [Website](https://parachutehealth.com)
 
 **Technologies:**  
-Ruby, Rails, React, TypeScript, Datadog, REST, Sidekiq, AWS, Buildkite
+Ruby, Rails, React, TypeScript, REST, GraphQL Sidekiq, AWS, Datadog, Buildkite
 
 #### Senior Staff Engineer
 
