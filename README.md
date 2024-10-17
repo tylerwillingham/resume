@@ -26,8 +26,16 @@ Ruby, Rails, React, TypeScript, REST, GraphQL Sidekiq, AWS, Datadog, Buildkite
 
 _April 2024 - Present_
 
+- Participate in high-level convention-setting conversations with other senior engineering leaders
+- Regularly review, provide feedback, and author technical designs
+- Contributed to broad-scale technical discovery and planning related to rethinking core data models
 - Championed full-stack effort to bring standards and conventions to our internal HTTP API
+  + Introduced GraphQL + authorization best practices from ground zero
+  + Built a highly observable foundation to keep performance concerns at bay
+  + Introduced and educated engineers on the dataloader pattern
 - Led effort to migrate and consolidate session-monitoring tooling from Glassbox to Datadog
+- Contributed to application logging refinement and standardization
+  + Transitioned from Lograge ➡️ SemanticLogger
 
 #### Staff Engineer, Supply
 
