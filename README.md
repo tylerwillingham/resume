@@ -45,7 +45,7 @@ _May 2023 - April 2024_
 **Technologies:**  
 Ruby, Rails, React, TypeScript, GraphQL, Sidekiq, Kafka, DataDog, BuildKite, AWS
 
-#### Acting Staff Engineer - Shopify Logistics
+#### Acting Staff Engineer - Shopify Logistics - Pricing, Billing and Claims
 
 _January 2023 - May 2023_
 
