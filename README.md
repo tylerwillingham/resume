@@ -86,8 +86,6 @@ In addition to these domain-specific wins I also contributed to more broad impac
   + Reduced lambda cold-boot by ~60%
 - Collaborated with product engineering to assist with organization-wide efforts to define repeatable, blue-green database migration process for reducing downtime caused by database schema changes
 
-Unfortunately my time with Shopify and Shopify Logistics was [cut short due to broad, performance-agnostic cuts](https://news.shopify.com/important-team-and-business-changes).
-
 #### Senior Software Engineer - Shopify Logistics
 
 _March 2022 - January 2023_
