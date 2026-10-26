@@ -16,6 +16,35 @@ mkdir -p "$bin_dir" "$(dirname "$agent_marker")"
 
 step() { echo "==> $* ($(date +%T))"; }
 
+# Ruby toolchain for bin/build-readme (Liquid). Installs the latest stable Ruby
+# release as a precompiled ubuntu-22.04 build (glibc-compatible with the Debian
+# 12 orb), placed at the path its RUNPATHs and binstub shebangs expect, with
+# executables linked into ~/.local/bin so login shells pick it up.
+RUBY_VERSION="4.0.9"
+rubies_root="$HOME/.local/rubies"
+ruby_prefix="$rubies_root/ruby-$RUBY_VERSION/x64"
+actions_prefix="/opt/hostedtoolcache/Ruby/$RUBY_VERSION/x64"
+
+if [[ ! -x "$ruby_prefix/bin/ruby" ]]; then
+  step "Installing Ruby $RUBY_VERSION"
+  rm -rf "$rubies_root/ruby-$RUBY_VERSION"
+  mkdir -p "$rubies_root/ruby-$RUBY_VERSION"
+  curl -fsSL \
+    "https://github.com/ruby/ruby-builder/releases/download/ruby-$RUBY_VERSION/ruby-$RUBY_VERSION-ubuntu-22.04-x64.tar.gz" \
+    | tar -xz -C "$rubies_root/ruby-$RUBY_VERSION"
+fi
+# The build expects to live here; a symlink also makes its bundled binstubs'
+# shebangs and the binaries' RUNPATHs resolve.
+sudo -n mkdir -p "$(dirname "$actions_prefix")"
+sudo -n ln -sfn "$ruby_prefix" "$actions_prefix"
+for exe in "$ruby_prefix"/bin/*; do
+  ln -sf "$exe" "$bin_dir/$(basename "$exe")"
+done
+
+step "Installing gems from Gemfile.lock"
+bundle config set --global frozen true >/dev/null
+bundle install --quiet --jobs 4
+
 if ! command -v entire >/dev/null 2>&1; then
   step "Installing Entire CLI"
   bash <(curl -fsSL https://entire.com/install.sh) </dev/null

@@ -21,7 +21,7 @@ jobs:
       - uses: actions/checkout@v5
       - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: "3.3"
+          ruby-version: "4.0"
           bundler-cache: true
       - run: bin/build-readme
       # Pushes made with GITHUB_TOKEN don't trigger workflows, so this commit can't loop.
