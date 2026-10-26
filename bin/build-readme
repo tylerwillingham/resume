@@ -1,0 +1,26 @@
+#!/usr/bin/env ruby
+# Renders README.md from _data/resume.yml with the Liquid include that GitHub Pages can also use.
+require "bundler/setup"
+require "liquid"
+require "yaml"
+
+root = File.expand_path("..", __dir__)
+
+# Jekyll provides group_by; mirror its output so the include renders the same in both places.
+module GroupByFilter
+  def group_by(input, property)
+    input.group_by { |item| item[property].to_s }.map do |name, items|
+      { "name" => name, "items" => items, "size" => items.size }
+    end
+  end
+end
+Liquid::Template.register_filter(GroupByFilter)
+
+resume = YAML.safe_load_file(File.join(root, "_data/resume.yml"))
+template = Liquid::Template.parse(File.read(File.join(root, "_includes/resume.md")), error_mode: :strict)
+markdown = template.render!("site" => { "data" => { "resume" => resume } })
+
+File.write(
+  File.join(root, "README.md"),
+  "<!-- Generated from _data/resume.yml by bin/build-readme. Edit the YAML, not this file. -->\n#{markdown}"
+)
