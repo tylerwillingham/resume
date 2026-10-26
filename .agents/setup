@@ -1,0 +1,48 @@
+#!/usr/bin/env bash
+# Installs the Entire CLI and the Amp external agent so Amp threads in this
+# orb are captured as Entire sessions and checkpoints.
+set -euo pipefail
+
+GO_VERSION="go1.27.3"
+# entireio/external-agents commit that provides entire-agent-amp.
+EXTERNAL_AGENTS_REF="23c64f2861ddbfd2670cffafeb45f86bad6ebc2b"
+
+repo_root="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+bin_dir="$HOME/.local/bin"
+go_root="$HOME/.local/go"
+agent_marker="$HOME/.local/share/entire-agent-amp.ref"
+export PATH="$bin_dir:$go_root/bin:$PATH"
+mkdir -p "$bin_dir" "$(dirname "$agent_marker")"
+
+step() { echo "==> $* ($(date +%T))"; }
+
+if ! command -v entire >/dev/null 2>&1; then
+  step "Installing Entire CLI"
+  bash <(curl -fsSL https://entire.com/install.sh) </dev/null
+fi
+
+if [[ ! -x "$bin_dir/entire-agent-amp" || "$(cat "$agent_marker" 2>/dev/null)" != "$EXTERNAL_AGENTS_REF" ]]; then
+  if [[ "$("$go_root/bin/go" version 2>/dev/null | awk '{print $3}')" != "$GO_VERSION" ]]; then
+    step "Installing $GO_VERSION"
+    rm -rf "$go_root"
+    curl -fsSL "https://go.dev/dl/$GO_VERSION.linux-amd64.tar.gz" | tar -xz -C "$HOME/.local"
+  fi
+  step "Building entire-agent-amp@$EXTERNAL_AGENTS_REF"
+  GOBIN="$bin_dir" GOTOOLCHAIN=local go install \
+    "github.com/entireio/external-agents/agents/entire-agent-amp/cmd/entire-agent-amp@$EXTERNAL_AGENTS_REF"
+  echo "$EXTERNAL_AGENTS_REF" >"$agent_marker"
+fi
+
+step "Enabling Entire external agents for this clone"
+# Entire only honors external_agents from the untracked settings.local.json.
+local_settings="$repo_root/.entire/settings.local.json"
+if [[ -f "$local_settings" ]]; then
+  jq '.external_agents = true' "$local_settings" >"$local_settings.tmp"
+  mv "$local_settings.tmp" "$local_settings"
+else
+  echo '{"external_agents": true}' >"$local_settings"
+fi
+
+cd "$repo_root"
+entire enable </dev/null >/dev/null
+step "Done"
